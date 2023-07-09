@@ -1,0 +1,29 @@
+.homepage{
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+    font-size: 30px;
+    font-family: algerian;
+    margin:0px;
+    justify-content: center;
+    width:50vw;
+    height: 50vh;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 10px grey;
+    position: relative;
+    margin-top: 150px;
+}
+.button{
+    background-color: blueviolet;
+    color: white;
+   border:1px solid blueviolet;
+   font-size: 25px;
+   border-radius: 8px;
+   cursor: pointer;
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   height:30px;
+   width:90%;
+   align-items: center;
+}
